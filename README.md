@@ -1,5 +1,7 @@
 # U^2-Net (U square net)
 
+[![DeepSource](https://deepsource.io/gh/saif-deepsource/U-2-Net.svg/?label=active+issues&show_trend=true)](https://deepsource.io/gh/saif-deepsource/U-2-Net/?ref=repository-badge)
+
 The code for our paper **U^2-Net (U square net)** published in Pattern Recognition 2020:
 ## [U^2-Net: Going Deeper with Nested U-Structure for Salient Object Detection](https://arxiv.org/pdf/2005.09007.pdf)
 
